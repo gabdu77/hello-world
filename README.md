@@ -1,4 +1,4 @@
-# Project 1
+# Hello World!
 Il faut bien commencer un jour...
 
 ## Objectifs:
