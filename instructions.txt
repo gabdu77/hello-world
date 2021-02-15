@@ -1,1 +1,2 @@
 
+Vous devez télécharger le ZIP, extraire les fichiers puis ouvrir "index.html"
